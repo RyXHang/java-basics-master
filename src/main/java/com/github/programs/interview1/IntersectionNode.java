@@ -1,4 +1,4 @@
-package com.github.programs.interview;
+package com.github.programs.interview1;
 
 public class IntersectionNode {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

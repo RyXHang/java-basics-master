@@ -1,6 +1,4 @@
-package com.github.programs.interview;
-
-import java.util.Scanner;
+package com.github.programs.interview1;
 
 public class PrintDiamond {
     public static void main(String[] args) {
